@@ -40,7 +40,7 @@ A comprehensive, organized database of music prompts for Suno AI music generatio
 
 ## License
 
-MIT License - feel free to use, modify, and distribute
+Creative Commons Attribution-NonCommercial (CC BY-NC) 4.0 International license
 
 ## Credits
 
