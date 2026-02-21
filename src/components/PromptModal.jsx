@@ -6,7 +6,7 @@ export default function PromptModal({ prompt, onClose }) {
     navigator.clipboard.writeText(prompt.prompt || '').then(() => {});
   }
 
-  const editUrl = `https://github.com/<your-org>/<your-repo>/edit/main/data/prompts/${prompt.category ? prompt.category.toLowerCase() : 'misc'}.json`;
+  const editUrl = `https://github.com/OddCollector/ultimate-suno-prompts-database/edit/main/data/prompts/${prompt.category ? prompt.category.toLowerCase() : 'misc'}.json`;
 
   return (
     <div className="modal-backdrop" onClick={onClose}>
