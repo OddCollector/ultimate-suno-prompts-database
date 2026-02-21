@@ -1,0 +1,15 @@
+{
+  "chorus-001": {
+    "id": "chorus-001",
+    "title": "Ethereal female chorus with reverb",
+    "prompt": "Lush female vocal chorus, airy and breathy, long reverb tails, slow tempo, pad bed, subtle sidechain",
+    "tags": [
+      "Ethereal",
+      "Female Vocals",
+      "Reverb",
+      "Ambient"
+    ],
+    "category": "Chorus",
+    "file_name": "ambient_chorus_ethereal_001.wav"
+  }
+}
