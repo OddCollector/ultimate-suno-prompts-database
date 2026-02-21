@@ -1,0 +1,18 @@
+[
+  {
+    "id": "chorus-001",
+    "title": "Ethereal female chorus with reverb",
+    "category": "Chorus",
+    "tags": ["Ethereal", "Female Vocals", "Reverb", "Ambient"],
+    "prompt": "Lush female vocal chorus, airy and breathy, long reverb tails, slow tempo, pad bed, subtle sidechain",
+    "json_prompts": { "suno": { "voice": "female", "tempo": 70, "effects": ["reverb", "delay"] } },
+    "sound_design": "Warm pad, analog-style synth, soft high-pass filter",
+    "lyrics": "Hold me in the quiet of the night",
+    "artwork": { "cover": "ethereal_chorus.jpg", "notes": "soft pastel, moonlight" },
+    "file_name": "ambient_chorus_ethereal_001.wav",
+    "created_by": "SpecTroniX",
+    "created_at": "2026-02-20T22:00:00Z",
+    "updated_at": "2026-02-21T10:00:00Z",
+    "complex": false
+  }
+]
