@@ -8,7 +8,7 @@ A comprehensive, organized database of music prompts for Suno AI music generatio
 - 🎨 **Expandable Interface** - Click any category to expand/collapse
 - 🔍 **Searchable Database** - Quickly search for specific prompts
 - 📋 **Copy to Clipboard** - Click any prompt to quickly copy it
-- 🎯 **Well-Organized** - Prompts grouped by music theory, production, and creative elements
+- 🎯 **Well-Organized** - Prompts grouped by style components, production, lyrics and creative elements
 - 📱 **Responsive Design** - Works on desktop, tablet, and mobile
 - ⚡ **Fast & Lightweight** - Pure HTML/CSS/JavaScript, no dependencies
 
