@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: process.env.GITHUB_PAGES ? '/suno-prompts/' : '/'
+  base: process.env.GITHUB_PAGES ? '/ultimate-suno-prompts-database/' : '/'
 });
